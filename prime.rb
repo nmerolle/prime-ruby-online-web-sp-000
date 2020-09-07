@@ -20,5 +20,5 @@ def create_array(n)
     create_array(n)
     counter = 0
     while counter < array.size
-      if array[counter] % 
+      if n % 
   
