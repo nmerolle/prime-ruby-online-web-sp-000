@@ -22,4 +22,4 @@ def create_array(n)
         end
       end
     end
-  end
+
