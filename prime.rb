@@ -2,7 +2,7 @@
 def create_array(n)
   array = []
   if n > 0
-    counter = 1
+    counter = 2
     while counter < n - 1
       array << counter
       counter += 1
