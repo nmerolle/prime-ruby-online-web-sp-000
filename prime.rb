@@ -15,4 +15,14 @@ def create_array(n)
     counter = 0
     while counter < array.size
       array.each do |i|
+        if n % i == 0
+          return false
+        else 
+          return true 
+        end
+      end
+    end
+  end
+  
+    
         
